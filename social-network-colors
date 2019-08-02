@@ -15,6 +15,7 @@ $behance: #1769FF;
 $snapchat: #FFFA37;
 $skype: #00AFF0;
 $github: #171516;
+$messenger: "#0078FF";
 
 $twitter-r: rgba(0,172,237,1);
 $facebook-r: rgba(59,89,152,1);
@@ -33,3 +34,4 @@ $behance-r: rgba(23,105,255,1);
 $snapchat-r: rgba(255,250,55,1);
 $skype-r: rgba(0,175,240,1);
 $github-r: rgba(23,21,22,1);	
+$messenger-r: rgba(0,120,255,1);
